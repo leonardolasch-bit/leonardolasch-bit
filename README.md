@@ -1,4 +1,4 @@
-##                                     Hi th                                                               ere bro 👋  leonardo lasch
+##                                     He there bro 👋  leonardo lasch
 
 <!--
 **leonardolasch-bit/leonardolasch-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
